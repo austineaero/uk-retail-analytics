@@ -1,11 +1,6 @@
-Here’s a polished, updated README based on your latest project structure, workflow, and visualization strategy. Comments and tips included!
+# UK Retail Data Analytics with Databricks
 
----
-
-# UK Retail Data Analytics – Notebook Edition
-
-End‑to‑end analytics demo with **no unnecessary modularisation** – all processing happens in notebooks so reviewers can easily read, run, and follow the logic step‑by‑step.
-**Public dataset:** *UCI Online Retail (UK transactions, 2010‑2011)*.
+End‑to‑end analytics demo using public dataset: *UCI Online Retail (UK transactions, 2010‑2011)*.
 
 ---
 
@@ -41,7 +36,7 @@ uk-data-analytics/
 
 3. **To present/share your findings:**
 
-   * Open any chart images in the `dashboard/` folder (suitable for presentations or dashboards).
+   * Open any chart images in the `dashboard/` folder.
    * Optionally, import the exported CSVs into Power BI or Tableau and build additional visuals, saving screenshots to the same folder.
 
 ---
